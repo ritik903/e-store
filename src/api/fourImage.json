@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "heading" : "Clouths",
+        "image" : "/images/clouths.jpg",
+        "para" : "pent-shirt dolor sit amet consectetur adipisicing elit. Rerum in labore laudantium deserunt fugiat numquam.",
+        "button":"read more"
+
+    },
+    {
+        "id": 2,
+        "heading": "Laptop",
+        "image": "/images/laptop.jpg",
+        "para": "laptop asus y50 deal sit amet consectetur adipisicing elit. Rerum in labore laudantium deserunt fugiat numquam.",
+        "button": "read more"
+    },
+    {
+        "id": 3,
+        "heading": "I-phone",
+        "image": "/images/iphone.jpg",
+        "para": "iphone x 4/64 consectetur adipisicing elit. Rerum in labore laudantium deserunt fugiat numquam.",
+        "button": "read more"
+    },
+    {
+        "id": 4,
+        "heading": "Shoes",
+        "image": "/images/shoes.jpg",
+        "para": "jorden shoes best item dolor sit amet consectetur adipisicing elit. Rerum in labore laudantium deserunt fugiat numquam.",
+        "button": "read more"
+    }
+]

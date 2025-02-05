@@ -1,0 +1,1964 @@
+[
+    {
+        "name": "laptop",
+        "id": 1,
+        "color": [
+            "#fff",
+            "#212529"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://m.media-amazon.com/images/I/61aEgC4GhIL.jpg"
+            },
+            {
+                "imd": "a2",
+                "img": "https://bestoflens.com/wp-content/uploads/2022/10/maxresdefault-3-3.jpg"
+            },
+            {
+                "imd": "a3",
+                "img": "https://imgeng.jagran.com/images/2023/dec/best%20laptops%20under%20250001702370864862.jpg"
+            },
+            {
+                "imd": "a4",
+                "img": "https://www.outofbit.it/wp-content/uploads/2018/08/Immagine-Copy-1.jpg"
+            }
+        ],
+        "discription": "HP Laptop 15, 13th Gen Intel Core i5-1334U, 15.6-inch (39.6 cm), FHD, 16GB DDR4, 512GB SSD, Intel Iris Xe graphics, Backlit KB, MSO, Dual speakers (Win 11, Silver, 1.59 kg), fd0221TU",
+        "cast": "Brand HP",
+        "brand": "HP",
+        "branding": "laptop device",
+        "featured": true,
+        "ratting": 4.5,
+        "stock": 5,
+        "preview": 45,
+        "discription2": "HP Laptop 15, 13th Gen Intel Core i5-1334U, 15.6-inch (39.6 cm)...",
+        "percentege": 13,
+        "mrp": 61990,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.in/HP-i5-1334U-15-6-inch-graphics-speakers/dp/B0CTKHG3F6/ref=asc_df_B0CTKHG3F6/?tag=googleshopdes-21&linkCode=df0&hvadid=686145679413&hvpos=&hvnetw=g&hvrand=10285241244445222309&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007802&hvtargid=pla-2294039597459&mcid=716af65f6e0e3091ac5063aafef0691b&gad_source=1&th=1"
+    },
+    {
+        "name": "mobile",
+        "id": 2,
+        "color": [
+            "#fff",
+            "#212529",
+            "#fffdef"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://m.media-amazon.com/images/I/71XQD0wtMPL.jpg"
+            },
+            {
+                "imd": "a2",
+                "img": "https://www.lowyat.net/wp-content/uploads/2023/09/Xiaomi-Redmi-Note-13-Pro-series-designs-6.jpeg"
+            },
+            {
+                "imd": "a3",
+                "img": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/redminote13pro.jpg"
+            },
+            {
+                "imd": "a4",
+                "img": "https://www.powerplanetonline.com/cdnassets/xiaomi_redmi_note_13_pro_4g_lila_01_l.jpg"
+            }
+        ],
+        "discription": "Xiaomi Redmi Note 13 PRO 5G + 4G LTE (256GB + 8GB) 6.67 200MP Triple (Tmobile Mint Tello & Global) Global Bands Unlocked + (Fast Car Dual Charger Bundle) (Midnight Black (Global ROM)) mobile",
+        "cast": "xiomi store",
+        "brand": "xiomi",
+        "branding": "gadget",
+        "ratting": 5,
+        "stock": 0,
+        "preview": 75,
+        "discription2": "Xiaomi Redmi Note 13 PRO 5G + 4G LTE (256GB + 8GB)...",
+        "percentege": 15,
+        "mrp": 31990,
+        "shipping": true,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.com/Xiaomi-Tmobile-Unlocked-Charger-Midnight/dp/B0CLLV68VK/ref=sr_1_1?crid=19UK2FZJC9ZG9&dib=eyJ2IjoiMSJ9.GkzoaGHfJECi-aS_H922z6mbcZ56AYo6h6yV-FAGwNYU5hZFrzyIS-kjTF8FXfD0gCNAPwpCEdcvET7AVieaRUzF8CT9WCbzRghXfLrbTpUwlGFRjWPA41ru4pBDsxfUBqVkmrkgjx9lnSP2Hhp4K58LAGlnvbNgR2aq0EFsZNShkgRQrxSqFRacHNuEqoDVZOcm0qMeS5p_RsMNwRTe8X7wXd059pa1sJmpuEQ8EFM.cZPpufJtFylLeRzLLiBQvOmfDhDydUeZ9ke4J0XJT00&dib_tag=se&keywords=redmi%2B13%2B5g%2Bmobile&qid=1725464058&sprefix=red%2Bmi%2B13%2Caps%2C756&sr=8-1&th=1"
+    },
+    {
+        "name": "mobile",
+        "id": 3,
+        "color": [
+            "#fff",
+            "#000",
+            "#4a7766"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://rukminim2.flixcart.com/image/850/1000/xif0q/mobile/g/t/u/-original-imagxhd5xtjuwnqz.jpeg?q=20&crop=false"
+            },
+            {
+                "imd": "a2",
+                "img": "https://www.gsmarenabd.com/images/products/realme-12-pro-plus.jpg"
+            },
+            {
+                "imd": "a3",
+                "img": "https://imgeng.jagran.com/images/2024/jan/realme-12-pro-plus-launch-date1706461089841.jpg"
+            },
+            {
+                "imd": "a4",
+                "img": "https://hellootech.com/wp-content/uploads/Realme-12-Pro-Plus-Display.webp"
+            }
+        ],
+        "discription": "realme 12 Pro+ 5G (Submarine Blue, 8GB RAM, 256GB Storage) | 6.7 120Hz Curved fullHD Display | 64MP Periscope + 50MP Sony IMX 890 OIS Camera + 8MP | 32MP Selfie Camera | 67W Super VOOC Charge mobile",
+        "cast": "realme store",
+        "brand": "realme",
+        "branding": "gadget",
+        "ratting": 3,
+        "stock": 8,
+        "preview": 78,
+        "discription2": "realme 12 Pro+ 5G (Submarine Blue, 8GB RAM, 256GB Storage)...",
+        "percentege": 25,
+        "mrp": 26990,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.in/realme-Submarine-Storage-Display-Periscope/dp/B0CSWMQV9Z/ref=asc_df_B0CSWMQV9Z/?tag=googleshopdes-21&linkCode=df0&hvadid=686169869724&hvpos=&hvnetw=g&hvrand=17474986947896821634&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007802&hvtargid=pla-2292918008051&psc=1&mcid=dde71e666b0834139b8c6838c4fc1863&gad_source=1"
+    },
+    {
+        "name": "fridge",
+        "id": 4,
+        "color": [
+            "#fff",
+            "#e9dfd8",
+            "#afafda"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNHL0-PgalMFn9qZjqiI_fB5GOAFv2FQHT9g&s"
+            },
+            {
+                "imd": "a2",
+                "img": "https://tse2.mm.bing.net/th?id=OIP.qqWhFiF3VAV3AeTCEXBGVwAAAA&pid=Api&P=0&h=180"
+            },
+            {
+                "imd": "a3",
+                "img": "https://tse1.mm.bing.net/th?id=OIP.2fL7npuzAGouOzHtNqnvKQHaDm&pid=Api&P=0&h=180"
+            },
+            {
+                "imd": "a4",
+                "img": "https://images.samsung.com/is/image/samsung/p6pim/in/feature/5653/in-feature-rr1500mh-377809-401370725?$FB_TYPE_A_JPG$"
+            }
+        ],
+        "discription": "Samsung 183 L, 4 Star, Digital Inverter, Direct-Cool Single Door Refrigerator (RR20C1724CU/HL, Camellia Blue, 2024 Model) fridge",
+        "cast": "samsung store",
+        "brand": "samsung",
+        "branding": "electronic",
+        "ratting": 4,
+        "stock": 6,
+        "preview": 25,
+        "discription2": "Samsung 183 L, 4 Star, Digital Inverter, Direct-Cool Single Door...",
+        "percentege": 10,
+        "mrp": 51990,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.samsung.com/in/refrigerators/double-door/rt39c5532s8-twin-cooling-plus-363l-silver-rt39c5532s8-hl/?cid=in_pd_ppc_google_ce-samsungref-doubledoor-ref-dtc_sales_samsung-ref-all-2023_eshop-pmax-pla_01jan2023-na_1ur-501463l-2024-eshop-bau-ce-performancemax-cpc_pfm--20496987342------x--RT39C5532S8%2FHL&gad_source=1&gclid=Cj0KCQjwiuC2BhDSARIsALOVfBLssLeEuDva72ZvGmIyb527BiYP-RBb1JIKI1kbPMQVEOlosyYbwb8aAnHfEALw_wcB"
+    },
+    {
+        "name": "mobile",
+        "id": 5,
+        "color": [
+            "#92736c",
+            "#212529",
+            "#fdf1f5"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://tse1.mm.bing.net/th?id=OIP.HaLwbXJ3GmzQZxcYaKTNZAHaJN&pid=Api&P=0&h=180"
+            },
+            {
+                "imd": "a2",
+                "img": "https://tse2.mm.bing.net/th?id=OIP.tHupbhl01Tsmc-9J5-6ebAAAAA&pid=Api&P=0&h=180"
+            },
+            {
+                "imd": "a3",
+                "img": "https://tse3.mm.bing.net/th?id=OIP.iuethv90L3F2ThqlguebeAHaE7&pid=Api&P=0&h=180"
+            },
+            {
+                "imd": "a4",
+                "img": "https://tse4.mm.bing.net/th?id=OIP.6K2vKaQN8wSXB8EsIwcDtQHaGG&pid=Api&P=0&h=180"
+            }
+        ],
+        "discription": "Xiaomi Redmi 10(Fusion Purple, 12GB RAM, 512GB Storage) | World's First Mediatek 7200 Ultra 5G | 200MP Hi-Res Camera | 1.5K Curved fullHD | 120W HyperCharge",
+        "cast": "Xiaomi store",
+        "brand": "Xiaomi",
+        "branding": "gadget",
+        "ratting": 2,
+        "stock": 0,
+        "preview": 105,
+        "discription2": "Samsung 183 L, 4 Star, Digital Inverter, Direct-Cool Single Door...",
+        "percentege": 19,
+        "mrp": 33490,
+        "shipping": true,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.in/Redmi-Fusion-Storage-Mediatek-HyperCharge/dp/B0CRQ8874B/ref=asc_df_B0CRQ8874B/?tag=googleshopdes-21&linkCode=df0&hvadid=686197819648&hvpos=&hvnetw=g&hvrand=18108329898563312815&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007802&hvtargid=pla-2285976104541&mcid=5597af4ed65a389584e0339deef8d25d&gad_source=1&th=1"
+    },
+    {
+        "name": "fridge",
+        "id": 6,
+        "color": [
+            "#fff",
+            "#8a6729",
+            "#ebc8b3"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSczTAxO-mRdVB1h2Wa8uJuzNR3ow8mmedewQ&s"
+            },
+            {
+                "imd": "a2",
+                "img": "https://tse2.mm.bing.net/th?id=OIP.-6lWF6hjpqSjG_Ah3yiMwgHaHa&pid=Api&P=0&h=180"
+            },
+            {
+                "imd": "a3",
+                "img": "https://www.zebrs.com/uploads/zebrs/products/whirlpool-184-l-3-star-direct-cool-single-door-refrigerator-205-wde-roy-3s-sapphire-radiance-z-base-stand-with-drawer-2023-model-957304_l.jpg?v=336?param=10"
+            },
+            {
+                "imd": "a4",
+                "img": "https://www.zebrs.com/uploads/zebrs/products/whirlpool-184-l-2-star-direct-cool-single-door-refrigerator-205-wde-prm-2s-sapphire-bloom-z-617078_l.jpg?v=336?param=6"
+            }
+        ],
+        "discription": "Whirlpool 184 L 2 Star Direct-Cool Single Door Refrigerator (205 WDE PRM 2S SAPPHIRE BLOOM-Z, 2023 Model) fridge",
+        "cast": "whirpool store",
+        "brand": "whirpool",
+        "branding": "electronic",
+        "ratting": 3.5,
+        "stock": 2,
+        "preview": 145,
+        "discription2": "Whirlpool 184 L 2 Star Direct-Cool Single Door Refrigerator...",
+        "percentege": 10,
+        "mrp": 51990,
+        "shipping": true,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.in/Whirlpool-Direct-Cool-Refrigerator-SAPPHIRE-BLOOM-Z/dp/B0BSRV1YGK/ref=asc_df_B0BSRV1YGK/?tag=googleshopdes-21&linkCode=df0&hvadid=620865479000&hvpos=&hvnetw=g&hvrand=3451549749370447182&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007802&hvtargid=pla-1968724780941&mcid=1322e05959f23f0ab38556be1b0db17c&th=1"
+    },
+    {
+        "name": "mobile",
+        "id": 7,
+        "color": [
+            "#222831",
+            "#212529",
+            "#00adb5"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeclaRSs3L5OFXH6l8GXt7OdXBpbNZtBb48w&s"
+            },
+            {
+                "imd": "a2",
+                "img": "https://tse4.mm.bing.net/th?id=OIP.w5JLz8HWyTART-Ujj-1sIwHaEK&pid=Api&P=0&h=180"
+            },
+            {
+                "imd": "a3",
+                "img": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1717138491/Croma%20Assets/Communication/Mobiles/Images/306954_2_bxlpkz.png"
+            },
+            {
+                "imd": "a4",
+                "img": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1717139106/Croma%20Assets/Communication/Mobiles/Images/306951_1_szzpm1.png"
+            }
+        ],
+        "discription": "realme GT 6T 5G (Razor Green,12GB RAM+512GB Storage) | India's 1st 7+ Gen 3 Flagship Chipset | 1.5M+AnTuTu Score | 5500mAh+120W | The World's Brightest Flagship Display mobile",
+        "cast": "realme store",
+        "brand": "realme",
+        "branding": "gadget",
+        "ratting": 2,
+        "stock": 9,
+        "preview": 15,
+        "discription2": "realme GT 6T 5G (Razor Green,12GB RAM+512GB Storage)...",
+        "percentege": 25,
+        "mrp": 26990,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.in/realme-Storage-Flagship-Chipset-Brightest/dp/B0D3J8145K/ref=asc_df_B0D3J8145K/?tag=googleshopdes-21&linkCode=df0&hvadid=686252011406&hvpos=&hvnetw=g&hvrand=1781510022088883618&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007802&hvtargid=pla-2309044623729&mcid=11da850fdada36458e46940bf1927932&gad_source=1&th=1"
+    },
+    {
+        "name": "laptop",
+        "id": 8,
+        "color": [
+            "#fff",
+            "#00fff5"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhsCcAQ7wRpKBXVwLTkS0wvpzOS0CcvY7lVA&s"
+            },
+            {
+                "imd": "a2",
+                "img": "https://cdn.shopify.com/s/files/1/0565/5917/3826/products/41y29u8-04_f3833d6e-b64b-4dd4-b089-f5839a3a8c7f_1600x.jpg?v=1653435837"
+            },
+            {
+                "imd": "a3",
+                "img": "https://tse2.mm.bing.net/th?id=OIP.-szSDCdex7GKtW0QSUMbgwHaHa&pid=Api&P=0&h=180"
+            },
+            {
+                "imd": "a4",
+                "img": "https://tse3.mm.bing.net/th?id=OIP.bMb2BmBs75V28NzGn7XA8gHaGG&pid=Api&P=0&h=180"
+            }
+        ],
+        "discription": "HP Laptop 15, 13th Gen Intel Core i5-1334U, 15.6-inch (39.6 cm), FHD, 16GB DDR4, 512GB SSD, Intel Iris Xe graphics, Backlit KB, MSO, Dual speakers (Win 11, Silver, 1.59 kg), fd0221TU",
+        "cast": "Brand HP",
+        "brand": "HP",
+        "branding": "laptop device",
+        "ratting": 2.9,
+        "stock": 0,
+        "preview": 36,
+        "discription2": "HP Laptop 15, 13th Gen Intel Core i5-1334U, 15.6-inch (39.6 cm)...",
+        "percentege": 13,
+        "mrp": 61990,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.in/HP-i5-1334U-15-6-inch-graphics-speakers/dp/B0CTKHG3F6/ref=asc_df_B0CTKHG3F6/?tag=googleshopdes-21&linkCode=df0&hvadid=686145679413&hvpos=&hvnetw=g&hvrand=10285241244445222309&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007802&hvtargid=pla-2294039597459&mcid=716af65f6e0e3091ac5063aafef0691b&gad_source=1&th=1"
+    },
+    {
+        "name": "mobile",
+        "id": 9,
+        "color": [
+            "#fff",
+            "#212529",
+            "#5c5470"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://cdn1.smartprix.com/rx-iOdVLLTmR-w420-h420/realme-12-plus-5g-8g.jpg"
+            },
+            {
+                "imd": "a2",
+                "img": "https://tse4.mm.bing.net/th?id=OIP.WG93TW_J6O095ASnV1mrnAHaEK&pid=Api&P=0&h=180"
+            },
+            {
+                "imd": "a3",
+                "img": "https://i.gadgets360cdn.com/large/realme_12_plus_5g_facebook_realme_1708087976539.jpg"
+            },
+            {
+                "imd": "a4",
+                "img": "https://tse4.mm.bing.net/th?id=OIP.Ep2lvmYEi9s3piMFoVrrQgHaHa&pid=Api&P=0&h=180"
+            }
+        ],
+        "discription": "realme 12 5G (Woodland Green, 8GB RAM 128 GB Storage) mobile | 108 MP 3X Zoom Portrait Camera | 45 W SUPERVOOC Charge | 5000 mAh Massive Battery | Dual Stereo Speakers | Dynamic Button",
+        "cast": "realme store",
+        "brand": "realme",
+        "branding": "gadget",
+        "ratting": 5,
+        "stock": 3,
+        "preview": 55,
+        "discription2": "realme 12 5G (Woodland Green, 8GB RAM 128 GB Storage)...",
+        "percentege": 15,
+        "mrp": 31990,
+        "shipping": true,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.in/realme-Woodland-Portrait-SUPERVOOC-Speakers/dp/B0CX213ZZM/ref=asc_df_B0CX213ZZM/?tag=googleshopdes-21&linkCode=df0&hvadid=686252011406&hvpos=&hvnetw=g&hvrand=1781510022088883618&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007802&hvtargid=pla-2291751520787&mcid=292142ad26b530d6a2a895403eadaa80&gad_source=1&th=1"
+    },
+    {
+        "name": "mobile",
+        "id": 10,
+        "color": [
+            "#fff",
+            "#dbd8e3"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpMN3MX6uiQZz6TV45P1NZq6EbHk93vj9W4Q&s"
+            },
+            {
+                "imd": "a2",
+                "img": "https://tse1.mm.bing.net/th?id=OIP.wOh7pfgzhEREdraHeaxbyAHaEK&pid=Api&P=0&h=180"
+            },
+            {
+                "imd": "a3",
+                "img": "https://www.91-cdn.com/hub/wp-content/uploads/2023/12/op-12.png"
+            },
+            {
+                "imd": "a4",
+                "img": "https://tse4.mm.bing.net/th?id=OIP.5lnn6Pp1PznBuPIHMRumPwHaEK&pid=Api&P=0&h=180"
+            }
+        ],
+        "discription": "OnePlus 12 (Flowy Emerald, 16GB RAM, 512GB Storage)",
+        "cast": "OnePlus store",
+        "brand": "OnePlus",
+        "branding": "gadget",
+        "ratting": 4.6,
+        "stock": 8,
+        "preview": 45,
+        "discription2": "OnePlus 12 (Flowy Emerald, 16GB RAM, 512GB Storage)",
+        "percentege": 12,
+        "mrp": 26990,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.in/OnePlus-Flowy-Emerald-512GB-Storage/dp/B0CQPP6JTH/ref=asc_df_B0CQPP6JTH/?tag=googleshopdes-21&linkCode=df0&hvadid=686169869724&hvpos=&hvnetw=g&hvrand=14526787063494531973&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007802&hvtargid=pla-2311007313524&mcid=33872b3b01d1399889c8c4b7101a13b7&gad_source=1&th=1"
+    },
+    {
+        "name": "laptop",
+        "id": 11,
+        "color": [
+            "#fff",
+            "#212529",
+            "#145858"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3pizx75pTjY5POnsGqImxWmg26P9XoRM_tQ&s"
+            },
+            {
+                "imd": "a2",
+                "img": "https://tse4.mm.bing.net/th?id=OIP.i7KUeHWcVYSVtacmAwZY2wHaFj&pid=Api&P=0&h=180"
+            },
+            {
+                "imd": "a3",
+                "img": "https://tse1.mm.bing.net/th?id=OIP.teFoQHLm8xgXklKvjywZ8gHaFM&pid=Api&P=0&h=180"
+            },
+            {
+                "imd": "a4",
+                "img": "https://tse4.mm.bing.net/th?id=OIP._05ev8Ajg_sdNmhnaT9N5wHaEK&pid=Api&P=0&h=180"
+            }
+        ],
+        "discription": "lenovo Laptop 15, 13th Gen Intel Core i5-1334U, 15.6-inch (39.6 cm), FHD, 16GB DDR4, 512GB SSD, Intel Iris Xe graphics, Backlit KB, MSO, Dual speakers (Win 11, Silver, 1.59 kg), fd0221TU",
+        "cast": "Brand HP",
+        "brand": "HP",
+        "branding": "laptop device",
+        "featured": true,
+        "ratting": 4.4,
+        "stock": 11,
+        "preview": 25,
+        "discription2": "lenovo Laptop  15, 13th Gen Intel Core i5-1334U, 15.6-inch...",
+        "percentege": 13,
+        "mrp": 61990,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.in/HP-i5-1334U-15-6-inch-graphics-speakers/dp/B0CTKHG3F6/ref=asc_df_B0CTKHG3F6/?tag=googleshopdes-21&linkCode=df0&hvadid=686145679413&hvpos=&hvnetw=g&hvrand=10285241244445222309&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007802&hvtargid=pla-2294039597459&mcid=716af65f6e0e3091ac5063aafef0691b&gad_source=1&th=1"
+    },
+    {
+        "name": "fridge",
+        "id": 12,
+        "color": [
+            "#fff",
+            "#212529",
+            "#f7b318"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQucZ9z7e6d6rZt-8iggjTHWIKcAIJz-0THvg&s"
+            },
+            {
+                "imd": "a2",
+                "img": "https://enationalelectronics.com/storage/71yvpkmrhwl-sx679-800x800.jpg"
+            },
+            {
+                "imd": "a3",
+                "img": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1682590140/Croma%20Assets/Large%20Appliances/Refrigerator/Images/269911_6_jrktmi.png?tr=w-640"
+            },
+            {
+                "imd": "a4",
+                "img": "https://media.croma.com/image/upload/v1682593830/Croma%20Assets/Large%20Appliances/Refrigerator/Images/270403_8_vhgvx1.png"
+            }
+        ],
+        "discription": "LG 224 L 5 Star Direct-Cool Smart Inverter Compressor Single-Door Refrigerator (GL-D241ABCU, Blue Charm, Base stand with Drawer, 2023 Model) fridge",
+        "cast": "LG store",
+        "brand": "LG",
+        "branding": "electronic",
+        "ratting": 3.6,
+        "stock": 9,
+        "preview": 67,
+        "discription2": "LG 224 L 5 Star Direct-Cool Smart Inverter Compressor...",
+        "percentege": 10,
+        "mrp": 51990,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.samsung.com/in/refrigerators/double-door/rt39c5532s8-twin-cooling-plus-363l-silver-rt39c5532s8-hl/?cid=in_pd_ppc_google_ce-samsungref-doubledoor-ref-dtc_sales_samsung-ref-all-2023_eshop-pmax-pla_01jan2023-na_1ur-501463l-2024-eshop-bau-ce-performancemax-cpc_pfm--20496987342------x--RT39C5532S8%2FHL&gad_source=1&gclid=Cj0KCQjwiuC2BhDSARIsALOVfBLssLeEuDva72ZvGmIyb527BiYP-RBb1JIKI1kbPMQVEOlosyYbwb8aAnHfEALw_wcB"
+    },
+    {
+        "name": "laptop",
+        "id": 13,
+        "color": [
+            "#fff",
+            "#212529",
+            "#c8eoca"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://www.myg.in/images/companies/1/blogs%20images/hp-victus-i7.png?1710405492511"
+            },
+            {
+                "imd": "a2",
+                "img": "https://pcper.com/wp-content/uploads/2015/03/c096-g501-left-open135-top-scaled.jpg"
+            },
+            {
+                "imd": "a3",
+                "img": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5722/5722708cv12d.jpg"
+            },
+            {
+                "imd": "a4",
+                "img": "https://m.media-amazon.com/images/I/81RIr5YR3QL._AC_SL1500_.jpg"
+            }
+        ],
+        "discription": "assus Laptop, 13th Gen Intel Core i5-1334U, 15.6-inch (39.6 cm), FHD, 16GB DDR4, 512GB SSD, Intel Iris Xe graphics, Backlit KB, MSO, Dual speakers (Win 11, Silver, 1.59 kg), fd0221TU",
+        "cast": "assus HP",
+        "brand": "assus",
+        "branding": "laptop device",
+        "ratting": 4.7,
+        "stock": 7,
+        "preview": 87,
+        "discription2": "assus Laptop Star Direct-Cool Smart Inverter Compressor Single-Door Refrigerator...",
+        "percentege": 15,
+        "mrp": 61990,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.in/HP-i5-1334U-15-6-inch-graphics-speakers/dp/B0CTKHG3F6/ref=asc_df_B0CTKHG3F6/?tag=googleshopdes-21&linkCode=df0&hvadid=686145679413&hvpos=&hvnetw=g&hvrand=10285241244445222309&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007802&hvtargid=pla-2294039597459&mcid=716af65f6e0e3091ac5063aafef0691b&gad_source=1&th=1"
+    },
+    {
+        "name": "mobile",
+        "id": 14,
+        "color": [
+            "#fff",
+            "#212529",
+            "#013237"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://m.media-amazon.com/images/I/617WN7I3E4L.jpg"
+            },
+            {
+                "imd": "a2",
+                "img": "https://fdn.gsmarena.com/imgroot/reviews/23/motorola-razr-40-ultra/lifestyle/-1200w5/gsmarena_003.jpg"
+            },
+            {
+                "imd": "a3",
+                "img": "https://tse2.mm.bing.net/th?id=OIP.u1_7ZnbZZhNdAelHM3n_CwAAAA&pid=Api&P=0&h=180"
+            },
+            {
+                "imd": "a4",
+                "img": "https://i.ytimg.com/vi/_3R0XWuLNrE/maxresdefault.jpg"
+            }
+        ],
+        "discription": "Motorola razr 40 Ultra (Peach Fuzz, 8GB RAM, 256GB Storage) | 3.6 External FullHD Display | 6.9 FullHD 165Hz Display | 32MP Selfie Camera |30W TurboPower Charging | Android 13",
+        "cast": "Motorola store",
+        "brand": "Motorola",
+        "branding": "gadget",
+        "ratting": 5,
+        "stock": 3,
+        "preview": 57,
+        "discription2": "Motorola razr 40 Ultra (Peach Fuzz, 8GB RAM, 256GB Storage)...",
+        "percentege": 25,
+        "mrp": 26990,
+        "shipping": true,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.in/Motorola-Storage-External-TurboPower-Charging/dp/B0CQ2C1L58/ref=asc_df_B0CQ2C1L58/?tag=googleshopdes-21&linkCode=df0&hvadid=686197819648&hvpos=&hvnetw=g&hvrand=13660990492658426319&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007802&hvtargid=pla-2295287669954&mcid=ada9aa19d10530989f41513cb66f9fc9&gad_source=1&th=1"
+    },
+    {
+        "name": "mobile",
+        "id": 15,
+        "color": [
+            "#fff",
+            "#212529",
+            "#fbcf84",
+            "#1e355f"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-11-prime-4g-0.jpg"
+            },
+            {
+                "imd": "a2",
+                "img": "https://tse3.mm.bing.net/th?id=OIP.C10WTeFIroxuTXHTAyevegHaFc&pid=Api&P=0&h=180"
+            },
+            {
+                "imd": "a3",
+                "img": "https://www.thetechoutlook.com/wp-content/uploads/2022/11/Untitled-design-2022-11-01T084533.829.jpg"
+            },
+            {
+                "imd": "a4",
+                "img": "https://phonesdata.com/files/models/Xiaomi-Redmi-11-Prime-5G-343.jpg"
+            }
+        ],
+        "discription": "Xiaomi Redmi 11 4G LTE (256GB + 8GB) 6.67 200MP Triple (Tmobile Mint Tello & Global) Global Bands Unlocked + (Fast Car Dual Charger Bundle) (Midnight Black (Global ROM)) mobile",
+        "cast": "xiomi store",
+        "brand": "xiomi",
+        "branding": "gadget",
+        "ratting": 3.2,
+        "stock": 1,
+        "preview": 33,
+        "discription2": "Xiaomi Redmi Note 13 PRO 5G + 4G LTE (256GB + 8GB)...",
+        "percentege": 11,
+        "mrp": 31990,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.com/Xiaomi-Tmobile-Unlocked-Charger-Midnight/dp/B0CLLV68VK/ref=sr_1_1?crid=19UK2FZJC9ZG9&dib=eyJ2IjoiMSJ9.GkzoaGHfJECi-aS_H922z6mbcZ56AYo6h6yV-FAGwNYU5hZFrzyIS-kjTF8FXfD0gCNAPwpCEdcvET7AVieaRUzF8CT9WCbzRghXfLrbTpUwlGFRjWPA41ru4pBDsxfUBqVkmrkgjx9lnSP2Hhp4K58LAGlnvbNgR2aq0EFsZNShkgRQrxSqFRacHNuEqoDVZOcm0qMeS5p_RsMNwRTe8X7wXd059pa1sJmpuEQ8EFM.cZPpufJtFylLeRzLLiBQvOmfDhDydUeZ9ke4J0XJT00&dib_tag=se&keywords=redmi%2B13%2B5g%2Bmobile&qid=1725464058&sprefix=red%2Bmi%2B13%2Caps%2C756&sr=8-1&th=1"
+    },
+    {
+        "name": "LED",
+        "id": 16,
+        "color": [
+            "#fff",
+            "#212529"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTSvfNvlOHLngFTVyacX05j9LrxMIf0u1e5A&s"
+            },
+            {
+                "imd": "a2",
+                "img": "https://cdn.shopclues.com/images1/detailed/115594/152801883-115594517-1634120011.jpg"
+            },
+            {
+                "imd": "a3",
+                "img": "https://availeverything.com/public/uploads/all/lBwxPv8apR1QwmuWitIwxEwCmZZZkqwfrbqNlpMU.jpg"
+            },
+            {
+                "imd": "a4",
+                "img": "https://velanstore.com/wp-content/uploads/2023/06/Screenshot-2023-08-22-at-10.56.43%E2%80%AFAM.png"
+            }
+        ],
+        "discription": "Sony Bravia 164 cm (65 inches) 4K Ultra HD Smart LED Google TV KD-65X74L (Black)",
+        "cast": "sony store",
+        "brand": "sony",
+        "branding": "smart Devices",
+        "ratting": 5,
+        "stock": 15,
+        "preview": 55,
+        "discription2": "Sony Bravia 164 cm (65 inches) 4K Ultra HD Smart LED...",
+        "percentege": 5,
+        "mrp": 51990,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.in/Sony-Bravia-inches-Google-KD-65X74L/dp/B0C1HCS2WZ/ref=asc_df_B0C1HCS2WZ/?tag=googleshopdes-21&linkCode=df0&hvadid=649324094875&hvpos=&hvnetw=g&hvrand=16030934070903907124&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007802&hvtargid=pla-2199755390772&psc=1&mcid=45c1d500ede6346baffc2c43627d9d90"
+    },
+    {
+        "name": "mobile",
+        "id": 17,
+        "color": [
+            "#fff",
+            "#212529",
+            "#fbcf84",
+            "#1e355f"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://cdn1.smartprix.com/rx-iSAvTwpiN-w1200-h1200/SAvTwpiN.jpg"
+            },
+            {
+                "imd": "a2",
+                "img": "https://rmupdate.com/wp-content/uploads/2023/08/realme-11-5g-series.webp"
+            },
+            {
+                "imd": "a3",
+                "img": "https://cdn.zeebiz.com/sites/default/files/realme115greview1.jpg"
+            },
+            {
+                "imd": "a4",
+                "img": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1693467494/Croma%20Assets/Communication/Mobiles/Images/300113_2_nyltub.png"
+            }
+        ],
+        "discription": "realme 11 5G (Submarine Blue, 8GB RAM, 256GB Storage) | 6.7 120Hz Curved FullHD Display | 64MP Periscope + 50MP Sony IMX 890 OIS Camera + 8MP | 32MP Selfie Camera | 67W Super VOOC Charge mobile",
+        "cast": "realme store",
+        "brand": "realme",
+        "branding": "gadget",
+        "featured": true,
+        "ratting": 4,
+        "stock": 13,
+        "preview": 135,
+        "discription2": "realme 11 5G  (Submarine Blue, 8GB RAM, 256GB Storage)...",
+        "percentege": 2,
+        "mrp": 26990,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.in/realme-Submarine-Storage-Display-Periscope/dp/B0CSWMQV9Z/ref=asc_df_B0CSWMQV9Z/?tag=googleshopdes-21&linkCode=df0&hvadid=686169869724&hvpos=&hvnetw=g&hvrand=17474986947896821634&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007802&hvtargid=pla-2292918008051&psc=1&mcid=dde71e666b0834139b8c6838c4fc1863&gad_source=1"
+    },
+    {
+        "name": "home theater",
+        "id": 18,
+        "color": [
+            "#92736c",
+            "#212529",
+            "#fdf1f5"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDXbBbKgwNcKFObjwwHFyfOwLNRHsi11f0bg&s"
+            },
+            {
+                "imd": "a2",
+                "img": "https://m.media-amazon.com/images/I/71B0Uzu-tfL.jpg"
+            },
+            {
+                "imd": "a3",
+                "img": "https://www.popsci.com/uploads/2021/09/13/JBL-PartyBox-110-feature-image-2.jpg?auto=webp"
+            },
+            {
+                "imd": "a4",
+                "img": "https://d.newsweek.com/en/full/1947181/jbl-partybox-110.jpg?w=790&f=8634d6fb2be26bcf25b141bd47758020"
+            }
+        ],
+        "discription": "JBL Partybox 110 |  Wireless Bluetooth Party Speaker home theater| 160W Monstrous Pro Sound| Dynamic Light Show| Upto 12Hrs Playtime | Built-in Powerbank | Guitar & Mic support PartyBox App (Black)",
+        "cast": "JBL store",
+        "brand": "JBL",
+        "branding": "electronic",
+        "ratting": 4.7,
+        "stock": 14,
+        "preview": 435,
+        "discription2": "JBL Partybox 110 |  Wireless Bluetooth Party Speaker home theater...",
+        "percentege": 9,
+        "mrp": 18990,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.in/JBL-PartyBox-Bluetooth-Adjustable-Splashproof/dp/B09JVCT78G/ref=asc_df_B09JVCT78G/?tag=googleshopdes-21&linkCode=df0&hvadid=586232427828&hvpos=&hvnetw=g&hvrand=6523228703642282885&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007802&hvtargid=pla-1657518441575&psc=1&mcid=56124387882135ce95de70f4e8d45d8d"
+    },
+    {
+        "name": "almira",
+        "id": 19,
+        "color": [
+            "#fff",
+            "#212529"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://tiimg.tistatic.com/fp/1/008/155/indoor-bedroom-modern-design-stainless-steel-almirah-with-mirror-219.jpg"
+            },
+            {
+                "imd": "a2",
+                "img": "https://4.imimg.com/data4/RP/HD/MY-893257/almirah-steel.jpg"
+            },
+            {
+                "imd": "a3",
+                "img": "https://images.muslimnames.com/almira_muslim_girls_names_meaning_islamic_girls_names.png"
+            },
+            {
+                "imd": "a4",
+                "img": "https://5.imimg.com/data5/SELLER/Default/2023/3/294864647/QD/KM/FY/1613827/modular-almirah-1000x1000.jpeg"
+            }
+        ],
+        "discription": "cello Partybox 110 | almira Wireless Bluetooth Party Speaker home theater| 160W Monstrous Pro Sound| Dynamic Light Show| Upto 12Hrs Playtime | Built-in Powerbank | Guitar & Mic support PartyBox App (Black)",
+        "cast": "Cello store",
+        "brand": "cello",
+        "branding": "Furniture",
+        "ratting": 4.1,
+        "stock": 16,
+        "preview": 485,
+        "discription2": "cello Partybox 110 | almira Wireless Bluetooth Party Speaker home theater...",
+        "percentege": 18,
+        "mrp": 18990,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.in/JBL-PartyBox-Bluetooth-Adjustable-Splashproof/dp/B09JVCT78G/ref=asc_df_B09JVCT78G/?tag=googleshopdes-21&linkCode=df0&hvadid=586232427828&hvpos=&hvnetw=g&hvrand=6523228703642282885&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007802&hvtargid=pla-1657518441575&psc=1&mcid=56124387882135ce95de70f4e8d45d8d"
+    },
+    {
+        "name": "computer",
+        "id": 20,
+        "color": [
+            "#222831",
+            "#212529",
+            "#00adb5"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXvjLhqTTZYKo6T8EjKD1JCEbkqv40y7tHDA&s"
+            },
+            {
+                "imd": "a2",
+                "img": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f14e1ad5-bfdf-4b8b-91bd-92dada33ab49.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+            },
+            {
+                "imd": "a3",
+                "img": "https://i.ytimg.com/vi/GcKkG6rYztk/maxresdefault.jpg"
+            },
+            {
+                "imd": "a4",
+                "img": "https://m.media-amazon.com/images/I/71HeLhm-7FL._AC_SS450_.jpg"
+            }
+        ],
+        "discription": "CHIST Gaming PC computer (Core i7-4790 Processor /1TB SSD/GT 730 4GB DDR5 Graphic Card /24 IPS Brazel screen Monitor/Gaming Keyboard Mouse/Wi-Fi adoptor/Speakers/Windows 10)",
+        "cast": "CHIST store",
+        "brand": "CHIST",
+        "branding": "electronic",
+        "ratting": 3.8,
+        "stock": 5,
+        "preview": 345,
+        "discription2": "CHIST Gaming PC computer (Core i7-4790 Processor /1TB SSD/GT 730...",
+        "percentege": 2,
+        "mrp": 61990,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.in/CHIST-i7-6700-Processor-Keyboard-Speakers/dp/B07YQ3RG9K/ref=asc_df_B07YQ3RG9K/?tag=googleshopdes-21&linkCode=df0&hvadid=397080575408&hvpos=&hvnetw=g&hvrand=17788611083981100740&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007802&hvtargid=pla-933236988840&psc=1&mcid=7a22b8918f423f1d8ed69ed7856feacf&ext_vrnc=hi"
+    },
+    {
+        "name": "mobile",
+        "id": 21,
+        "color": [
+            "#fff",
+            "#212529",
+            "#fbcf84",
+            "#1e355f"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://www.chooseyourmobile.com/wp-content/uploads/2024/04/Realme-P1-5G-RMX3870.webp"
+            },
+            {
+                "imd": "a2",
+                "img": "https://images.fonearena.com/blog/wp-content/uploads/2024/04/realme-P1-sale.jpg"
+            },
+            {
+                "imd": "a3",
+                "img": "https://i.ytimg.com/vi/dGx_dWAcoMo/maxresdefault.jpg"
+            },
+            {
+                "imd": "a4",
+                "img": "https://fdn.gsmarena.com/imgroot/news/24/04/realme-p1-series-ofic/inline/-1200/gsmarena_006.jpg"
+            }
+        ],
+        "discription": "realme p1 5G (Submarine Blue, 8GB RAM, 256GB Storage) | 6.7 120Hz Curved FullHD Display | 64MP Periscope + 50MP Sony IMX 890 OIS Camera + 8MP | 32MP Selfie Camera | 67W Super VOOC Charge mobile",
+        "cast": "realme store",
+        "brand": "realme",
+        "branding": "gadget",
+        "ratting": 4.7,
+        "stock": 4,
+        "preview": 245,
+        "discription2": "realme p1 5G(Submarine Blue, 8GB RAM, 256GB Storage)...",
+        "percentege": 25,
+        "mrp": 26990,
+        "shipping": true,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.in/realme-Submarine-Storage-Display-Periscope/dp/B0CSWMQV9Z/ref=asc_df_B0CSWMQV9Z/?tag=googleshopdes-21&linkCode=df0&hvadid=686169869724&hvpos=&hvnetw=g&hvrand=17474986947896821634&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007802&hvtargid=pla-2292918008051&psc=1&mcid=dde71e666b0834139b8c6838c4fc1863&gad_source=1"
+    },
+    {
+        "name": "bad",
+        "id": 22,
+        "color": [
+            "#fff",
+            "#212529"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDOMp3IINhrzhuKvVPt-ycBKwZaQr7eaafZQ&s"
+            },
+            {
+                "imd": "a2",
+                "img": "https://www.sleepnumber.com/media/W1siZiIsIndvcmthcmVhL2NvbnRlbnQvYXNzZXRzL3NwdmxrY3Jsa2V0eDcwcnB2Y215LmpwZyJdXQ/BedSale-i10_OTN.jpg?sha=ae8ae5dc1709bc79"
+            },
+            {
+                "imd": "a3",
+                "img": "http://images.qvc.com/is/image/h/19/h209619.001"
+            },
+            {
+                "imd": "a4",
+                "img": "https://images-na.ssl-images-amazon.com/images/I/91fitqANBEL._AC_SL1500_.jpg"
+            }
+        ],
+        "discription": "mattress 9 Kg ()  bad / 5 Kg (Dry), Ai Direct Drive Technology, Steam, TurboWash & Wi-Fi Fully Automatic Front Load Washer Dryer (FHD0905SWM, Intelligent & Convenient Fabric Care, Allergy Care, Middle Black)",
+        "cast": "visite the mattress store",
+        "brand": "mattress",
+        "branding": "Furniture",
+        "ratting": 5,
+        "stock": 7,
+        "preview": 45,
+        "discription2": "mattress 9 Kg ()  bad / 5 Kg (Dry), Ai Direct Drive Technology...",
+        "percentege": 50,
+        "mrp": 51990,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.in/LG-Technology-FHD0905SWM-Intelligent-Convenient/dp/B0CC5X35GT/ref=asc_df_B0CC5X35GT/?tag=googleshopdes-21&linkCode=df0&hvadid=666371421968&hvpos=&hvnetw=g&hvrand=10967871815981924965&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007802&hvtargid=pla-2193665019822&mcid=d55292175f54388198a78f8b2c901b3f&th=1"
+    },
+    {
+        "name": "almira",
+        "id": 23,
+        "color": [
+            "#92736c",
+            "#212529",
+            "#fdf1f5"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjlW7dBoZ2yea8ldUc-NiEMp236bjSJFdZ3A&s"
+            },
+            {
+                "imd": "a2",
+                "img": "https://5.imimg.com/data5/SELLER/Default/2021/2/MV/OZ/CR/57791592/wooden-almirah.jpg"
+            },
+            {
+                "imd": "a3",
+                "img": "https://rukminim1.flixcart.com/image/1664/1664/j76i3rk0/cupboard-almirah/r/u/r/pp-freedom-fb1-nilkamal-olive-green-original-imaexhpepwhffzex.jpeg?q=90"
+            },
+            {
+                "imd": "a4",
+                "img": "https://sharanalmirah.in/wp-content/uploads/2021/07/ALMIRAH-02.png"
+            }
+        ],
+        "discription": "cello Partybox 110 | almira Wireless Bluetooth Party Speaker home theater| 160W Monstrous Pro Sound| Dynamic Light Show| Upto 12Hrs Playtime | Built-in Powerbank | Guitar & Mic support PartyBox App (Black)",
+        "cast": "Cello store",
+        "brand": "cello",
+        "branding": "Furniture",
+        "featured": true,
+        "ratting": 2.6,
+        "stock": 8,
+        "preview": 675,
+        "discription2": "cello Partybox 110 | almira Wireless Bluetooth Party Speaker home theater...",
+        "percentege": "-18%",
+        "mrp": 18990,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.in/JBL-PartyBox-Bluetooth-Adjustable-Splashproof/dp/B09JVCT78G/ref=asc_df_B09JVCT78G/?tag=googleshopdes-21&linkCode=df0&hvadid=586232427828&hvpos=&hvnetw=g&hvrand=6523228703642282885&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007802&hvtargid=pla-1657518441575&psc=1&mcid=56124387882135ce95de70f4e8d45d8d"
+    },
+    {
+        "name": "LED",
+        "id": 24,
+        "color": [
+            "#fff",
+            "#212529",
+            "#fbcf84",
+            "#1e355f"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://www.reliancedigital.in/medias/Samsung-43T5350-Televisions-491694871-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w5MjYyMXxpbWFnZS9qcGVnfGltYWdlcy9oNzMvaGIxLzk0NDA2MjM4MjA4MzAuanBnfGNlNmUzZjM4NjUwZjg5MDI5YzQzNDMzNTQ2Yzg2N2IzYWIxOGJjZWExN2QwZTk5NjgxNmRkM2M5NmI3ZWFlNDU"
+            },
+            {
+                "imd": "a2",
+                "img": "https://i.ytimg.com/vi/7vmK0U7vizY/maxresdefault.jpg"
+            },
+            {
+                "imd": "a3",
+                "img": "https://qrs.in/uploads/product/gallery/41907519251458-SONXR65X90L-3.jpg"
+            },
+            {
+                "imd": "a4",
+                "img": "https://mahajanelectronics.com/cdn/shop/files/6_08ca0553-464c-4e4a-acff-debd4eaa3612_2048x2048.jpg?v=1687087970"
+            }
+        ],
+        "discription": "Sony Bravia 164 cm (65 inches) 4K Ultra HD Smart LED Google TV KD-65X74L (Black)",
+        "cast": "sony store",
+        "brand": "sony",
+        "branding": "smart Devices",
+        "ratting": 1,
+        "stock": 0,
+        "preview": 23,
+        "discription2": "Sony Bravia 164 cm (65 inches) 4K Ultra HD Smart LED...",
+        "percentege": 23,
+        "mrp": 51990,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.in/Sony-Bravia-inches-Google-KD-65X74L/dp/B0C1HCS2WZ/ref=asc_df_B0C1HCS2WZ/?tag=googleshopdes-21&linkCode=df0&hvadid=649324094875&hvpos=&hvnetw=g&hvrand=16030934070903907124&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007802&hvtargid=pla-2199755390772&psc=1&mcid=45c1d500ede6346baffc2c43627d9d90"
+    },
+    {
+        "name": "home theater",
+        "id": 25,
+        "color": [
+            "#92736c",
+            "#212529",
+            "#fdf1f5"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8_MZovfF7gVzvt4pmVvpZSmMgqZA7aVgjJQ&s"
+            },
+            {
+                "imd": "a2",
+                "img": "http://www.bhphotovideo.com/images/images500x500/JBL_SCS500_5BK_SCS500_5_6_Piece_Home_Cinema_505168.jpg"
+            },
+            {
+                "imd": "a3",
+                "img": "https://www.bhphotovideo.com/images/images500x500/JBL_SCS2005_DEMO_SCS_200_5_6_Piece_Home_536371.jpg"
+            },
+            {
+                "imd": "a4",
+                "img": "https://i.ebayimg.com/00/s/MTAwMFgxMDAw/z/V8YAAOSwwY9fQAxx/$_57.JPG?set_id=8800005007"
+            }
+        ],
+        "discription": "JBL Partybox 110 | Wireless Bluetooth Party Speaker home theater| 160W Monstrous Pro Sound| Dynamic Light Show| Upto 12Hrs Playtime | Built-in Powerbank | Guitar & Mic support PartyBox App (Black)",
+        "cast": "JBL store",
+        "brand": "JBL",
+        "branding": "electronic",
+        "ratting": 1.5,
+        "stock": 9,
+        "preview": 99,
+        "discription2": "JBL Partybox 110 | Wireless Bluetooth Party Speaker home theater...",
+        "percentege": 35,
+        "mrp": 18990,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.in/JBL-PartyBox-Bluetooth-Adjustable-Splashproof/dp/B09JVCT78G/ref=asc_df_B09JVCT78G/?tag=googleshopdes-21&linkCode=df0&hvadid=586232427828&hvpos=&hvnetw=g&hvrand=6523228703642282885&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007802&hvtargid=pla-1657518441575&psc=1&mcid=56124387882135ce95de70f4e8d45d8d"
+    },
+    {
+        "name": "juiser mashine",
+        "id": 26,
+        "color": [
+            "#222831",
+            "#212529",
+            "#00adb5"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://myborosil.com/cdn/shop/files/my-borosil-juicers-borosil-smart-juice-slow-juicer-33684667269258_360x.jpg?v=1706784634"
+            },
+            {
+                "imd": "a2",
+                "img": "https://images-na.ssl-images-amazon.com/images/I/71zuVdfaBwL._AC_SL1450_.jpg"
+            },
+            {
+                "imd": "a3",
+                "img": "http://www.breville.co.uk/on/demandware.static/-/Sites-master-catalog/default/dw432b1ce8/images/highres/VFJ016-01-1.jpg"
+            },
+            {
+                "imd": "a4",
+                "img": "https://m.media-amazon.com/images/I/71XS-a6TS-L._AC_SX569_.jpg"
+            }
+        ],
+        "discription": "Kuvings Newly Launched REVO Series Professional Cold Press Whole Slow juiser mashine, World's First Juicer with Patented Automatic-Cutting Auger to reduce juicing time (REVO830 Matt Black + Smoothie & Sorbet)",
+        "cast": "kuvings store",
+        "brand": "kuvings",
+        "branding": "electronic",
+        "featured": true,
+        "ratting": 4.9,
+        "stock": 0,
+        "preview": 35,
+        "discription2": "Kuvings Newly Launched REVO Series Professional Cold Press...",
+        "percentege": 15,
+        "mrp": 59000,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.in/REVO830-Matt-Black-Smoothie-Sorbet/dp/B0B3Y8J6Y6/ref=asc_df_B0B3Y8J6Y6/?tag=googleshopdes-21&linkCode=df0&hvadid=586302839512&hvpos=&hvnetw=g&hvrand=2573285741646624736&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007802&hvtargid=pla-1758208798524&psc=1&mcid=5921264a434c32ba85075bb8c4894693"
+    },
+    {
+        "name": "mobile",
+        "id": 27,
+        "color": [
+            "#fff",
+            "#212529"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://www.gizmochina.com/wp-content/uploads/2021/11/xiaomi-redmi-note-11t-5g.jpg"
+            },
+            {
+                "imd": "a2",
+                "img": "https://cdn.mos.cms.futurecdn.net/2kDYyLeMdroPQesNCTCcW7-1024-80.jpg"
+            },
+            {
+                "imd": "a3",
+                "img": "https://www.chooseyourmobile.com/wp-content/uploads/2022/05/Redmi-Note-11T-Pro-5G-Image2.jpg"
+            },
+            {
+                "imd": "a4",
+                "img": "https://img2.gadgetsnow.com/gd/images/products/additional/original/G318865_View_5/mobiles/smartphones/xiaomi-redmi-note-11t-5g-128-gb-matte-black-8-gb-ram-.jpg"
+            }
+        ],
+        "discription": "Xiaomi Redmi 11t 5G LTE (256GB + 8GB) 6.67 200MP Triple (Tmobile Mint Tello & Global) Global Bands Unlocked + (Fast Car Dual Charger Bundle) (Midnight Black (Global ROM)) mobile",
+        "cast": "xiomi store",
+        "brand": "xiomi",
+        "branding": "gadget",
+        "ratting": 4.4,
+        "stock": 15,
+        "preview": 67,
+        "discription2": "Xiaomi Redmi 11t 5G LTE LTE (256GB + 8GB)...",
+        "percentege": 75,
+        "mrp": 31990,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.com/Xiaomi-Tmobile-Unlocked-Charger-Midnight/dp/B0CLLV68VK/ref=sr_1_1?crid=19UK2FZJC9ZG9&dib=eyJ2IjoiMSJ9.GkzoaGHfJECi-aS_H922z6mbcZ56AYo6h6yV-FAGwNYU5hZFrzyIS-kjTF8FXfD0gCNAPwpCEdcvET7AVieaRUzF8CT9WCbzRghXfLrbTpUwlGFRjWPA41ru4pBDsxfUBqVkmrkgjx9lnSP2Hhp4K58LAGlnvbNgR2aq0EFsZNShkgRQrxSqFRacHNuEqoDVZOcm0qMeS5p_RsMNwRTe8X7wXd059pa1sJmpuEQ8EFM.cZPpufJtFylLeRzLLiBQvOmfDhDydUeZ9ke4J0XJT00&dib_tag=se&keywords=redmi%2B13%2B5g%2Bmobile&qid=1725464058&sprefix=red%2Bmi%2B13%2Caps%2C756&sr=8-1&th=1"
+    },
+    {
+        "name": "home theater",
+        "id": 28,
+        "color": [
+            "#fff",
+            "#212529",
+            "#5c5470"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://cdn.mos.cms.futurecdn.net/DGWCmL7EGdgJBr9T49gfAD-1200-80.jpg"
+            },
+            {
+                "imd": "a2",
+                "img": "http://bpc.h-cdn.co/assets/16/01/1452271544-home-theater-speaker-systems.jpg"
+            },
+            {
+                "imd": "a3",
+                "img": "https://abtec.co.nz/blog/wp-content/uploads/2015/09/klipsch-reference-premiere-5-1-15.jpg"
+            },
+            {
+                "imd": "a4",
+                "img": "https://images-na.ssl-images-amazon.com/images/I/818F6-tkZ1L._SL1500_.jpg"
+            }
+        ],
+        "discription": "JBL Partybox 110 | Wireless Bluetooth Party Speaker home theater| 160W Monstrous Pro Sound| Dynamic Light Show| Upto 12Hrs Playtime | Built-in Powerbank | Guitar & Mic support PartyBox App (Black)",
+        "cast": "JBL store",
+        "brand": "JBL",
+        "branding": "electronic",
+        "ratting": 3.6,
+        "stock": 5,
+        "preview": 34,
+        "discription2": "JBL Partybox 110 | Wireless Bluetooth Party Speaker home theater...",
+        "percentege": "-18%",
+        "mrp": 18990,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.in/JBL-PartyBox-Bluetooth-Adjustable-Splashproof/dp/B09JVCT78G/ref=asc_df_B09JVCT78G/?tag=googleshopdes-21&linkCode=df0&hvadid=586232427828&hvpos=&hvnetw=g&hvrand=6523228703642282885&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007802&hvtargid=pla-1657518441575&psc=1&mcid=56124387882135ce95de70f4e8d45d8d"
+    },
+    {
+        "name": "LED",
+        "id": 29,
+        "color": [
+            "#fff",
+            "#212529",
+            "#fbcf84",
+            "#1e355f"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "http://images.samsung.com/is/image/samsung/uk_UE46EH6030KXXU_520_Front_black?$L2-Thumbnail$"
+            },
+            {
+                "imd": "a2",
+                "img": "https://images.samsung.com/is/image/samsung/uk_UE37ES6300UXXU_042_Front?$L2-Thumbnail$"
+            },
+            {
+                "imd": "a3",
+                "img": "https://fixthephoto.com/images/content/best-led-tv.png"
+            },
+            {
+                "imd": "a4",
+                "img": "https://i5.walmartimages.com/asr/b27e3f0a-f79a-42ee-bf26-0a59ed0440bd_1.64f6ffa19ff9aa69810f0cb2e6928e25.jpeg"
+            }
+        ],
+        "discription": "Sony Bravia 164 cm (65 inches) 4K Ultra HD Smart LED Google TV KD-65X74L (Black)",
+        "cast": "sony store",
+        "brand": "sony",
+        "branding": "smart Devices",
+        "ratting": 3.8,
+        "stock": 2,
+        "preview": 23,
+        "discription2": "Sony Bravia 164 cm (65 inches) 4K Ultra HD Smart LED...",
+        "percentege": 62,
+        "mrp": 51990,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.in/Sony-Bravia-inches-Google-KD-65X74L/dp/B0C1HCS2WZ/ref=asc_df_B0C1HCS2WZ/?tag=googleshopdes-21&linkCode=df0&hvadid=649324094875&hvpos=&hvnetw=g&hvrand=16030934070903907124&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007802&hvtargid=pla-2199755390772&psc=1&mcid=45c1d500ede6346baffc2c43627d9d90"
+    },
+    {
+        "name": "parse",
+        "id": 30,
+        "color": [
+            "#92736c",
+            "#212529",
+            "#fdf1f5"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://images.meesho.com/images/products/165894287/pbdxu_512.webp"
+            },
+            {
+                "imd": "a2",
+                "img": "https://thumbs.dreamstime.com/b/pocket-purse-i-lost-my-leather-91202822.jpg"
+            },
+            {
+                "imd": "a3",
+                "img": "https://thumbs.dreamstime.com/b/purse-pocket-19035505.jpg"
+            },
+            {
+                "imd": "a4",
+                "img": "https://tse2.mm.bing.net/th?id=OIP.IHk-ou6FzVVNhLyUVmr_yQHaHa&pid=Api&P=0&w=300&h=300"
+            }
+        ],
+        "discription": "addidas Partybox 110 | parse Wireless Bluetooth Party Speaker home theater| 160W Monstrous Pro Sound| Dynamic Light Show| Upto 12Hrs Playtime | Built-in Powerbank | Guitar & Mic support PartyBox App (Black)",
+        "cast": "addidas store",
+        "brand": "addidas",
+        "branding": "man",
+        "featured": true,
+        "ratting": 5,
+        "stock": 6,
+        "preview": 45,
+        "discription2": "addidas Partybox 110 | parse Wireless Bluetooth Party Speaker home theater...",
+        "percentege": 32,
+        "mrp": 990,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.in/JBL-PartyBox-Bluetooth-Adjustable-Splashproof/dp/B09JVCT78G/ref=asc_df_B09JVCT78G/?tag=googleshopdes-21&linkCode=df0&hvadid=586232427828&hvpos=&hvnetw=g&hvrand=6523228703642282885&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007802&hvtargid=pla-1657518441575&psc=1&mcid=56124387882135ce95de70f4e8d45d8d"
+    },
+    {
+        "name": "laptop Bag",
+        "id": 31,
+        "color": [
+            "#222831",
+            "#212529",
+            "#00adb5"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://www.sportskhel.com/media/catalog/product/cache/043ede78ff4c5057eb195e2154bf4b0a/s/u/super_select_ss_ckbg_os_1_e.jpg"
+            },
+            {
+                "imd": "a2",
+                "img": "https://i.pinimg.com/originals/5a/9c/57/5a9c57757209c881706bab086c150931.png"
+            },
+            {
+                "imd": "a3",
+                "img": "https://images-na.ssl-images-amazon.com/images/I/A1OBKZ314tL._SL1500_.jpg"
+            },
+            {
+                "imd": "a4",
+                "img": "https://images-na.ssl-images-amazon.com/images/I/71NC7d62suL._AC_SL1200_.jpg"
+            }
+        ],
+        "discription": "Red Lemon BANGE Captain Business Smart Backpack Waterproof fit 15.6 Inch Bag Backpack with USB Charging Port,Travel Durable Backpack for Men and Women",
+        "cast": "red Lemon store",
+        "brand": " redLemon ",
+        "branding": "clouths",
+        "ratting": 5,
+        "stock": 13,
+        "preview": 445,
+        "discription2": "Red Lemon BANGE Captain Business Smart Backpack Waterproof...",
+        "percentege": 41,
+        "mrp": 3990,
+        "shipping": true,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.in/Red-Lemon-Business-Backpack-Waterproof/dp/B09ZYPHJKH/ref=asc_df_B09ZYPHJKH/?tag=googleshopdes-21&linkCode=df0&hvadid=586403674052&hvpos=&hvnetw=g&hvrand=17485054893131475552&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007802&hvtargid=pla-1675934695113&psc=1&mcid=c45a65b58d073a3a91021f782cbdcbc0"
+    },
+    {
+        "name": "computer",
+        "id": 32,
+        "color": [
+            "#92736c",
+            "#212529",
+            "#fdf1f5"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXq5YtWyIeDNNXtyRf9I1d5cHIp2GbiKwHsw&s"
+            },
+            {
+                "imd": "a2",
+                "img": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6319/6319980_rd.jpg"
+            },
+            {
+                "imd": "a3",
+                "img": "https://m.media-amazon.com/images/I/81xKdwCO2hL._AC_SL1500_.jpg"
+            },
+            {
+                "imd": "a4",
+                "img": "https://cdn.thepcenthusiast.com/wp-content/uploads/2023/03/Asus-ROG-Gaming-Laptops-with-AMD-Ryzen-9-7945HX.jpg"
+            }
+        ],
+        "discription": "CHIST Gaming PC computer (Core i7-4790 Processor /1TB SSD/GT 730 4GB DDR5 Graphic Card /24 IPS Brazel screen Monitor/Gaming Keyboard Mouse/Wi-Fi adoptor/Speakers/Windows 10)",
+        "cast": "CHIST store",
+        "brand": "CHIST",
+        "branding": "electronic",
+        "ratting": 1.2,
+        "stock": 6,
+        "preview": 145,
+        "discription2": "CHIST Gaming PC computer (Core i7-4790 Processor /1TB SSD...",
+        "percentege": 15,
+        "mrp": 61990,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.in/CHIST-i7-6700-Processor-Keyboard-Speakers/dp/B07YQ3RG9K/ref=asc_df_B07YQ3RG9K/?tag=googleshopdes-21&linkCode=df0&hvadid=397080575408&hvpos=&hvnetw=g&hvrand=17788611083981100740&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007802&hvtargid=pla-933236988840&psc=1&mcid=7a22b8918f423f1d8ed69ed7856feacf&ext_vrnc=hi"
+    },
+    {
+        "name": "juiser mashine",
+        "id": 33,
+        "color": [
+            "#222831",
+            "#212529",
+            "#00adb5"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6p7zJ1RWrpwz7nR1kJH9uwc8X2xcVvHr0RQ&s"
+            },
+            {
+                "imd": "a2",
+                "img": "https://i5.walmartimages.com/asr/dae639a8-5019-4a1f-8bbc-1fc0478cfbc5.c09dc596a5cbc524bfbcc33fff333f9a.jpeg"
+            },
+            {
+                "imd": "a4",
+                "img": "http://www.juiceprocessline.com/wp-content/uploads/2020/12/pomegrante-juice-making-machine.jpg"
+            },
+            {
+                "imd": "a4",
+                "img": "https://images-na.ssl-images-amazon.com/images/I/61p97UH3P0L.jpg"
+            }
+        ],
+        "discription": "Kuvings Newly Launched REVO Series Professional Cold Press Whole Slow juiser mashine, World's First Juicer with Patented Automatic-Cutting Auger to reduce juicing time (REVO830 Matt Black + Smoothie & Sorbet)",
+        "cast": "kuvings store",
+        "brand": "kuvings",
+        "branding": "electronic",
+        "ratting": 4.8,
+        "stock": 8,
+        "preview": 445,
+        "discription2": "Kuvings Newly Launched REVO Series Professional Cold Press...",
+        "percentege": 5,
+        "mrp": 59000,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.in/REVO830-Matt-Black-Smoothie-Sorbet/dp/B0B3Y8J6Y6/ref=asc_df_B0B3Y8J6Y6/?tag=googleshopdes-21&linkCode=df0&hvadid=586302839512&hvpos=&hvnetw=g&hvrand=2573285741646624736&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007802&hvtargid=pla-1758208798524&psc=1&mcid=5921264a434c32ba85075bb8c4894693"
+    },
+    {
+        "name": "parse",
+        "id": 34,
+        "color": [
+            "#fff",
+            "#212529"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjYS4IlzsysNhtagguoe_igItAIX1kPye45A&s"
+            },
+            {
+                "imd": "a2",
+                "img": "https://images-eu.ssl-images-amazon.com/images/I/814iogRTu5L.jpg"
+            },
+            {
+                "imd": "a3",
+                "img": "https://i5.walmartimages.com/asr/ff2fce37-b804-47ca-9abc-03a5513bb1c0_1.37777d82b7a52a3dade4e15964551e1e.jpeg?odnWidth=1000&odnHeight=1000&odnBg=ffffff"
+            },
+            {
+                "imd": "a4",
+                "img": "https://images-na.ssl-images-amazon.com/images/I/913PD-jZduL._AC_UL1500_.jpg"
+            }
+        ],
+        "discription": "addidas Partybox 110 | parse Wireless Bluetooth Party Speaker home theater| 160W Monstrous Pro Sound| Dynamic Light Show| Upto 12Hrs Playtime | Built-in Powerbank | Guitar & Mic support PartyBox App (Black)",
+        "cast": "addidas store",
+        "brand": "addidas",
+        "branding": "man",
+        "ratting": 3.5,
+        "stock": 13,
+        "preview": 845,
+        "discription2": "addidas Partybox 110 | parse Wireless Bluetooth Party Speaker home theater...",
+        "percentege": 3,
+        "mrp": 990,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.in/JBL-PartyBox-Bluetooth-Adjustable-Splashproof/dp/B09JVCT78G/ref=asc_df_B09JVCT78G/?tag=googleshopdes-21&linkCode=df0&hvadid=586232427828&hvpos=&hvnetw=g&hvrand=6523228703642282885&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007802&hvtargid=pla-1657518441575&psc=1&mcid=56124387882135ce95de70f4e8d45d8d"
+    },
+    {
+        "name": "laptop Bag",
+        "id": 35,
+        "color": [
+            "#92736c",
+            "#212529",
+            "#fdf1f5"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://redlemon-lifestyle.in/cdn/shop/files/7ce4f9b819d9d19cecd21e99770e30b1.jpg?v=1697844542"
+            },
+            {
+                "imd": "a2",
+                "img": "https://i5.walmartimages.com/asr/474a97d6-6984-44b8-bc5c-f5b4e43446de_1.253016f724bfb11bd684e63737dc1f4a.jpeg"
+            },
+            {
+                "imd": "a3",
+                "img": "https://tenradar.com/wp-content/uploads/2019/10/F-Gear-luxur-brown-laptop-bag.jpg"
+            },
+            {
+                "imd": "a4",
+                "img": "https://www.thespruce.com/thmb/sf8f84cxI_IwyRATgPh_ciKNCCA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/spr-best-laptop-bags-tout-2-7118ad1be6f1410c8e5d3c1922f70ab1.jpg"
+            }
+        ],
+        "discription": "Red Lemon BANGE Captain Business Smart Backpack Waterproof fit 15.6 Inch Bag Backpack with USB Charging Port,Travel Durable Backpack for Men and Women",
+        "cast": "red Lemon store",
+        "brand": "redLemon",
+        "branding": "clouths",
+        "featured": true,
+        "ratting": 2.5,
+        "stock": 7,
+        "preview": 36,
+        "discription2": "Red Lemon BANGE Captain Business Smart Backpack Waterproof...",
+        "percentege": 12,
+        "mrp": 3990,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.in/Red-Lemon-Business-Backpack-Waterproof/dp/B09ZYPHJKH/ref=asc_df_B09ZYPHJKH/?tag=googleshopdes-21&linkCode=df0&hvadid=586403674052&hvpos=&hvnetw=g&hvrand=17485054893131475552&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007802&hvtargid=pla-1675934695113&psc=1&mcid=c45a65b58d073a3a91021f782cbdcbc0"
+    },
+    {
+        "name": "dinner set",
+        "id": 36,
+        "color": [
+            "#fff",
+            "#212529",
+            "#fbcf84",
+            "#1e355f"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuGr9U1C-UZyxZSxxirRiZojSh0C8AU9HCMQ&s"
+            },
+            {
+                "imd": "a2",
+                "img": "https://images-na.ssl-images-amazon.com/images/I/71wHDNQYcML._SL1422_.jpg"
+            },
+            {
+                "imd": "a3",
+                "img": "https://i.pinimg.com/originals/50/26/0f/50260fd68375c1a155278d2b0fdc0a20.jpg"
+            },
+            {
+                "imd": "a4",
+                "img": "https://i5.walmartimages.com/asr/b9cca2b0-6155-4788-987d-491972fd0615.50b587dfda0bbefbf85f50d3922c6f65.jpeg"
+            }
+        ],
+        "discription": "milton 9 Kg  dinner set/ 5 Kg (Dry), Ai Direct Drive Technology, Steam, TurboWash & Wi-Fi Fully Automatic Front Load Washer Dryer (FHD0905SWM, Intelligent & Convenient Fabric Care, Allergy Care, Middle Black) dinner set",
+        "cast": "visite the milton store",
+        "brand": "milton",
+        "ratting": 2.8,
+        "stock": 8,
+        "preview": 145,
+        "discription2": "milton 9 Kg  dinner set/ 5 Kg (Dry), Ai Direct Drive Technology...",
+        "percentege": 25,
+        "mrp": 51990,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.in/LG-Technology-FHD0905SWM-Intelligent-Convenient/dp/B0CC5X35GT/ref=asc_df_B0CC5X35GT/?tag=googleshopdes-21&linkCode=df0&hvadid=666371421968&hvpos=&hvnetw=g&hvrand=10967871815981924965&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007802&hvtargid=pla-2193665019822&mcid=d55292175f54388198a78f8b2c901b3f&th=1"
+    },
+    {
+        "name": "home theater",
+        "id": 37,
+        "color": [
+            "#92736c",
+            "#212529",
+            "#fdf1f5"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://5.imimg.com/data5/WW/AP/MY-31880831/d-j-spekers-500x500.jpg"
+            },
+            {
+                "imd": "a2",
+                "img": "https://www.mtx.com/c/thumbs/0013149_tsw12-12-inch-powered-home-theater-subwoofer.jpeg"
+            },
+            {
+                "imd": "a3",
+                "img": "https://www.adam-audio.com/content/uploads/2016/11/adam-audio-gtc77-home-theatre-speaker-1920x768.jpg"
+            },
+            {
+                "imd": "a4",
+                "img": "https://5.imimg.com/data5/SELLER/Default/2024/1/381807861/LC/ZI/YR/199977160/home-theater-woofer-4-inch-500x500.jpeg"
+            }
+        ],
+        "discription": "JBL Partybox 110 | Wireless Bluetooth Party Speaker home theater| 160W Monstrous Pro Sound| Dynamic Light Show| Upto 12Hrs Playtime | Built-in Powerbank | Guitar & Mic support PartyBox App (Black)",
+        "cast": "JBL store",
+        "brand": "JBL",
+        "branding": "electronic",
+        "ratting": 2,
+        "stock": 11,
+        "preview": 435,
+        "discription2": "JBL Partybox 110 | Wireless Bluetooth Party Speaker home theater...",
+        "percentege": 28,
+        "mrp": 18990,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.in/JBL-PartyBox-Bluetooth-Adjustable-Splashproof/dp/B09JVCT78G/ref=asc_df_B09JVCT78G/?tag=googleshopdes-21&linkCode=df0&hvadid=586232427828&hvpos=&hvnetw=g&hvrand=6523228703642282885&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007802&hvtargid=pla-1657518441575&psc=1&mcid=56124387882135ce95de70f4e8d45d8d"
+    },
+    {
+        "name": "laptop Bag",
+        "id": 38,
+        "color": [
+            "#222831",
+            "#212529",
+            "#00adb5"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc4u8AmjHkXVGpMg1j7Rw815ooj_q8VXr3hQ&s"
+            },
+            {
+                "imd": "a2",
+                "img": "https://cdn.windowsreport.com/wp-content/uploads/2017/08/CoolBELL-travel-laptop-bag-1.jpg"
+            },
+            {
+                "imd": "a3",
+                "img": "https://images-na.ssl-images-amazon.com/images/I/81SABFXjXIL._AC_SL1500_.jpg"
+            },
+            {
+                "imd": "a4",
+                "img": "https://images-na.ssl-images-amazon.com/images/I/71fWAIFw6xL.jpg"
+            }
+        ],
+        "discription": "Red Lemon BANGE Captain Business Smart Backpack Waterproof fit 15.6 Inch Bag Backpack with USB Charging Port,Travel Durable Backpack for Men and Women",
+        "cast": "red Lemon store",
+        "brand": "redLemon",
+        "branding": "clouths",
+        "ratting": 2.5,
+        "stock": 0,
+        "preview": 745,
+        "discription2": "Red Lemon BANGE Captain Business Smart Backpack Waterproof...",
+        "percentege": "-15%",
+        "mrp": 3990,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.in/Red-Lemon-Business-Backpack-Waterproof/dp/B09ZYPHJKH/ref=asc_df_B09ZYPHJKH/?tag=googleshopdes-21&linkCode=df0&hvadid=586403674052&hvpos=&hvnetw=g&hvrand=17485054893131475552&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007802&hvtargid=pla-1675934695113&psc=1&mcid=c45a65b58d073a3a91021f782cbdcbc0"
+    },
+    {
+        "name": "juiser mashine",
+        "id": 39,
+        "color": [
+            "#fff",
+            "#212529"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://m.media-amazon.com/images/I/61pY5Rrq6CL._AC_UF350,350_QL80_.jpg"
+            },
+            {
+                "imd": "a2",
+                "img": "https://images-na.ssl-images-amazon.com/images/I/71gA1aafsZL._SL1500_.jpg"
+            },
+            {
+                "imd": "a3",
+                "img": "https://static-01.daraz.pk/p/a203d5d6ab1ce7b84fcee3ac22cbd06e.jpg"
+            },
+            {
+                "imd": "a4",
+                "img": "https://png.pngtree.com/png-clipart/20220420/original/pngtree-fresh-kitchen-juice-machine-summer-promotion-through-train-png-image_7547432.png"
+            }
+        ],
+        "discription": "Kuvings Newly Launched REVO Series Professional Cold Press Whole Slow juiser mashine, World's First Juicer with Patented Automatic-Cutting Auger to reduce juicing time (REVO830 Matt Black + Smoothie & Sorbet)",
+        "cast": "kuvings store",
+        "brand": "kuvings",
+        "branding": "electronic",
+        "ratting": 4.6,
+        "stock": 0,
+        "preview": 2345,
+        "discription2": "Kuvings Newly Launched REVO Series Professional Cold Press...",
+        "percentege": 56,
+        "mrp": 29000,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.in/REVO830-Matt-Black-Smoothie-Sorbet/dp/B0B3Y8J6Y6/ref=asc_df_B0B3Y8J6Y6/?tag=googleshopdes-21&linkCode=df0&hvadid=586302839512&hvpos=&hvnetw=g&hvrand=2573285741646624736&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007802&hvtargid=pla-1758208798524&psc=1&mcid=5921264a434c32ba85075bb8c4894693"
+    },
+    {
+        "name": "washing mashine",
+        "id": 40,
+        "color": [
+            "#92736c",
+            "#212529",
+            "#fdf1f5"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://m.media-amazon.com/images/I/71UylC5-6kL._AC_UF1000,1000_QL80_.jpg"
+            },
+            {
+                "imd": "a2",
+                "img": "https://www.lg.com/in/images/washing-machines/md07540887/gallery/FHM1408BDL-Washing-Machines-Right-View-MZ-04-v1.jpg"
+            },
+            {
+                "imd": "a3",
+                "img": "https://pngimg.com/uploads/washing_machine/washing_machine_PNG15587.png"
+            },
+            {
+                "imd": "a4",
+                "img": "https://thumbs.dreamstime.com/b/washing-mashine-inside-253611410.jpg"
+            }
+        ],
+        "discription": "LG 9 Kg (washing mashine) / 5 Kg (Dry), Ai Direct Drive Technology, Steam, TurboWash & Wi-Fi Fully Automatic Front Load Washer Dryer (FHD0905SWM, Intelligent & Convenient Fabric Care, Allergy Care, Middle Black)",
+        "cast": "visite the LG store",
+        "brand": "LG",
+        "branding": "electronic",
+        "ratting": 4.5,
+        "stock": 4,
+        "preview": 245,
+        "discription2": "LG 9 Kg (washing mashine) / 5 Kg (Dry), Ai Direct Drive Technology...",
+        "percentege": 57,
+        "mrp": 51990,
+        "shipping": true,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.in/LG-Technology-FHD0905SWM-Intelligent-Convenient/dp/B0CC5X35GT/ref=asc_df_B0CC5X35GT/?tag=googleshopdes-21&linkCode=df0&hvadid=666371421968&hvpos=&hvnetw=g&hvrand=10967871815981924965&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007802&hvtargid=pla-2193665019822&mcid=d55292175f54388198a78f8b2c901b3f&th=1"
+    },
+    {
+        "name": "laptop Bag",
+        "id": 41,
+        "color": [
+            "#222831",
+            "#212529",
+            "#00adb5"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://5.imimg.com/data5/CD/PG/MA/SELLER-85804116/sport-kit-bags.jpg"
+            },
+            {
+                "imd": "a2",
+                "img": "https://i.pinimg.com/originals/92/9b/68/929b683e19c208c5e634ef290cf61ae2.jpg"
+            },
+            {
+                "imd": "a3",
+                "img": "https://i0.wp.com/dudeliving.com/wp-content/uploads/2015/03/laptop-man-purse.jpg"
+            },
+            {
+                "imd": "a4",
+                "img": "https://m.media-amazon.com/images/I/81-5SZzX6oL.jpg"
+            }
+        ],
+        "discription": "Red Lemon BANGE Captain Business Smart Backpack Waterproof fit 15.6 Inch Bag Backpack with USB Charging Port,Travel Durable Backpack for Men and Women",
+        "cast": "red Lemon store",
+        "brand": "redLemon",
+        "branding": "clouths",
+        "featured": true,
+        "ratting": 5,
+        "stock": 0,
+        "preview": 98,
+        "discription2": "Red Lemon BANGE Captain Business Smart Backpack Waterproof...",
+        "percentege": 58,
+        "mrp": 3990,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.in/Red-Lemon-Business-Backpack-Waterproof/dp/B09ZYPHJKH/ref=asc_df_B09ZYPHJKH/?tag=googleshopdes-21&linkCode=df0&hvadid=586403674052&hvpos=&hvnetw=g&hvrand=17485054893131475552&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007802&hvtargid=pla-1675934695113&psc=1&mcid=c45a65b58d073a3a91021f782cbdcbc0"
+    },
+    {
+        "name": "clouths",
+        "id": 42,
+        "color": [
+            "#fff",
+            "#212529"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://rukminim2.flixcart.com/image/850/1000/l22724w0/fabric/c/9/s/no-2-5-m-unstitched-na-trendy-classic-shirt-pant-fabric-sanjevay-original-imagdhhkehjzqfns.jpeg?q=90&crop=false"
+            },
+            {
+                "imd": "a2",
+                "img": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80"
+            },
+            {
+                "imd": "a3",
+                "img": "https://www.shutterstock.com/image-photo/beautiful-colorful-clothes-flying-isolatedwomens-600nw-2257875171.jpg"
+            },
+            {
+                "imd": "a4",
+                "img": "https://media3.popsugar-assets.com/files/thumbor/izR_hmiQrM-wXbKaDWICuUazRgo/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2014/02/26/775/n/1922564/0bb81c479af63791_172557457.jpg"
+            }
+        ],
+        "discription": "jorden Partybox 110 | clouths Wireless Bluetooth Party Speaker home theater| 160W Monstrous Pro Sound| Dynamic Light Show| Upto 12Hrs Playtime | Built-in Powerbank | Guitar & Mic support PartyBox App (Black)",
+        "cast": "JBL store",
+        "brand": "jorden",
+        "branding": "man",
+        "ratting": 4.5,
+        "stock": 13,
+        "preview": 22,
+        "discription2": "jorden Partybox 110 | clouths Wireless Bluetooth Party Speaker home theater...",
+        "percentege": 30,
+        "mrp": 1490,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.in/JBL-PartyBox-Bluetooth-Adjustable-Splashproof/dp/B09JVCT78G/ref=asc_df_B09JVCT78G/?tag=googleshopdes-21&linkCode=df0&hvadid=586232427828&hvpos=&hvnetw=g&hvrand=6523228703642282885&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007802&hvtargid=pla-1657518441575&psc=1&mcid=56124387882135ce95de70f4e8d45d8d"
+    },
+    {
+        "name": "laptop Bag",
+        "id": 43,
+        "color": [
+            "#fff",
+            "#212529",
+            "#fbcf84",
+            "#1e355f"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://m.media-amazon.com/images/I/91R7HnI8QlL._AC_UF1000,1000_QL80_.jpg"
+            },
+            {
+                "imd": "a2",
+                "img": "https://m.media-amazon.com/images/I/51ecNJHKK2L._SY550_.jpg"
+            },
+            {
+                "imd": "a3",
+                "img": "http://www.cheatsheet.com/wp-content/uploads/2015/09/Rise_Travel_21_Inch_Spinner_Suitcase.png"
+            },
+            {
+                "imd": "a4",
+                "img": "https://cdn-s3.touchofmodern.com/products/000/860/587/6eb4af426f0e303547ddae883541e5c5_large.jpg?1509662701"
+            }
+        ],
+        "discription": "Red Lemon BANGE Captain Business Smart Backpack Waterproof fit 15.6 Inch Bags Backpack with USB Charging Port,Travel Durable Backpack for Men and Women",
+        "cast": "red Lemon store",
+        "brand": "redLemon",
+        "branding": "clouths",
+        "ratting": 4.3,
+        "stock": 0,
+        "preview": 459,
+        "discription2": "Red Lemon BANGE Captain Business Smart Backpack Waterproof...",
+        "percentege": 15,
+        "mrp": 3990,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.in/Red-Lemon-Business-Backpack-Waterproof/dp/B09ZYPHJKH/ref=asc_df_B09ZYPHJKH/?tag=googleshopdes-21&linkCode=df0&hvadid=586403674052&hvpos=&hvnetw=g&hvrand=17485054893131475552&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007802&hvtargid=pla-1675934695113&psc=1&mcid=c45a65b58d073a3a91021f782cbdcbc0"
+    },
+    {
+        "name": "parse",
+        "id": 44,
+        "color": [
+            "#92736c",
+            "#212529",
+            "#fdf1f5"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjtIz7HajInomM9qswsWwlC2LD9c0rL9XncQ&s"
+            },
+            {
+                "imd": "a2",
+                "img": "https://ae01.alicdn.com/kf/HTB1jzJrc6bguuRkHFrdq6z.LFXaR/Men-Wallet-Short-Small-Leather-Bag-Male-Purse-Men-Pocket-Wallet-Vintage-Design-Buckle-Men-Card.jpg"
+            },
+            {
+                "imd": "a3",
+                "img": "https://www.pngarts.com/files/8/Gents-Purse-Wallet-Download-Transparent-PNG-Image.png"
+            },
+            {
+                "imd": "a4",
+                "img": "https://i5.walmartimages.com/asr/e7a311cd-f4b7-410f-8ab0-010f0ae47e6b_1.7ebd90c5dbad803d95842d13fb781a4a.jpeg?odnWidth=612&odnHeight=612&odnBg=ffffff"
+            }
+        ],
+        "discription": "addidas Partybox 110 | parse Wireless Bluetooth Party Speaker home theater| 160W Monstrous Pro Sound| Dynamic Light Show| Upto 12Hrs Playtime | Built-in Powerbank | Guitar & Mic support PartyBox App (Black)",
+        "cast": "addidas store",
+        "brand": "addidas",
+        "branding": "man",
+        "ratting": 3.5,
+        "stock": 14,
+        "preview": 45,
+        "discription2": "addidas Partybox 110 | parse Wireless Bluetooth Party Speaker home theater...",
+        "percentege": 35,
+        "mrp": 990,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.in/JBL-PartyBox-Bluetooth-Adjustable-Splashproof/dp/B09JVCT78G/ref=asc_df_B09JVCT78G/?tag=googleshopdes-21&linkCode=df0&hvadid=586232427828&hvpos=&hvnetw=g&hvrand=6523228703642282885&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007802&hvtargid=pla-1657518441575&psc=1&mcid=56124387882135ce95de70f4e8d45d8d"
+    },
+    {
+        "name": "computer",
+        "id": 45,
+        "color": [
+            "#92736c",
+            "#212529",
+            "#fdf1f5"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://m.media-amazon.com/images/I/51bK4SfEMLL.jpg"
+            },
+            {
+                "imd": "a2",
+                "img": "https://pngimg.com/uploads/computer_pc/computer_pc_PNG7719.png"
+            },
+            {
+                "imd": "a3",
+                "img": "https://i5.walmartimages.com/asr/299c9aef-fd6d-426d-bcbc-f1945574730a.7933d342c6d74b4bb3f11a6cf10c4115.jpeg"
+            },
+            {
+                "imd": "a4",
+                "img": "https://images-eu.ssl-images-amazon.com/images/G/02/uk-electronics/product_content/HP/CompaqQ42011/Get-the-complete-package._V163679618_.jpg"
+            }
+        ],
+        "discription": "CHIST Gaming PC computer (Core i7-4790 Processor /1TB SSD/GT 730 4GB DDR5 Graphic Card /24 IPS Brazel screen Monitor/Gaming Keyboard Mouse/Wi-Fi adoptor/Speakers/Windows 10)",
+        "cast": "CHIST store",
+        "brand": "CHIST",
+        "branding": "electronic",
+        "featured": true,
+        "ratting": 4.5,
+        "stock": 16,
+        "preview": 45,
+        "discription2": "CHIST Gaming PC computer (Core i7-4790 Processor /1TB SSD...",
+        "percentege": 25,
+        "mrp": 61990,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.in/CHIST-i7-6700-Processor-Keyboard-Speakers/dp/B07YQ3RG9K/ref=asc_df_B07YQ3RG9K/?tag=googleshopdes-21&linkCode=df0&hvadid=397080575408&hvpos=&hvnetw=g&hvrand=17788611083981100740&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007802&hvtargid=pla-933236988840&psc=1&mcid=7a22b8918f423f1d8ed69ed7856feacf&ext_vrnc=hi"
+    },
+    {
+        "name": "juiser mashine",
+        "id": 46,
+        "color": [
+            "#fff",
+            "#212529",
+            "#5c5470"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHuBh2qXgxu8lbADUiG66mA0dHbNFrTcsisA&s"
+            },
+            {
+                "imd": "a2",
+                "img": "https://i5.walmartimages.com/asr/29e103bb-ec34-4cc5-bed3-ab72ad7f0020.3cd9d07ca4d3abc19f249449787fb25a.png"
+            },
+            {
+                "imd": "a3",
+                "img": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c99bed54-1a29-4594-b88e-af50209abd42.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+            },
+            {
+                "imd": "a4",
+                "img": "https://res.cloudinary.com/sharkninja/image/upload/v1621255817/Ninja/JC100UK/Ninja-JC100UK-JC100EU-Pink_copy.jpg"
+            }
+        ],
+        "discription": "Kuvings Newly Launched REVO Series Professional Cold Press Whole Slow juiser mashine, World's First Juicer with Patented Automatic-Cutting Auger to reduce juicing time (REVO830 Matt Black + Smoothie & Sorbet)",
+        "cast": "kuvings store",
+        "brand": "kuvings",
+        "branding": "electronic",
+        "ratting": 3.8,
+        "stock": 15,
+        "preview": 345,
+        "discription2": "Kuvings Newly Launched REVO Series Professional Cold Press...",
+        "percentege": 5,
+        "mrp": 19500,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.in/REVO830-Matt-Black-Smoothie-Sorbet/dp/B0B3Y8J6Y6/ref=asc_df_B0B3Y8J6Y6/?tag=googleshopdes-21&linkCode=df0&hvadid=586302839512&hvpos=&hvnetw=g&hvrand=2573285741646624736&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007802&hvtargid=pla-1758208798524&psc=1&mcid=5921264a434c32ba85075bb8c4894693"
+    },
+    {
+        "name": "shoes",
+        "id": 47,
+        "color": [
+            "#92736c",
+            "#212529",
+            "#fdf1f5"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://5.imimg.com/data5/SELLER/Default/2022/9/XR/TQ/KY/38630640/casual-shoes-500x500.jpg"
+            },
+            {
+                "imd": "a2",
+                "img": "http://pluspng.com/img-png/shoes-png-sneaker-png-transparent-image-2500.png"
+            },
+            {
+                "imd": "a3",
+                "img": "https://wallpapercave.com/wp/wp2461049.jpg"
+            },
+            {
+                "imd": "a4",
+                "img": "https://images.pexels.com/photos/267301/pexels-photo-267301.jpeg?cs=srgb&dl=fashion-fashionable-footwear-267301.jpg&fm=jpg"
+            }
+        ],
+        "discription": "jorden 9 Kg / shoes 5 Kg (Dry), Ai Direct Drive Technology, Steam, TurboWash & Wi-Fi Fully Automatic Front Load Washer Dryer (FHD0905SWM, Intelligent & Convenient Fabric Care, Allergy Care, Middle Black)",
+        "cast": "visite the jorden store",
+        "brand": "jorden",
+        "branding": "clouths",
+        "ratting": 5,
+        "stock": 3,
+        "preview": 75,
+        "discription2": "jorden 9 Kg / shoes 5 Kg (Dry), Ai Direct Drive Technology, Steam...",
+        "percentege": 2,
+        "mrp": 490,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.in/LG-Technology-FHD0905SWM-Intelligent-Convenient/dp/B0CC5X35GT/ref=asc_df_B0CC5X35GT/?tag=googleshopdes-21&linkCode=df0&hvadid=666371421968&hvpos=&hvnetw=g&hvrand=10967871815981924965&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007802&hvtargid=pla-2193665019822&mcid=d55292175f54388198a78f8b2c901b3f&th=1"
+    },
+    {
+        "name": "parse",
+        "id": 48,
+        "color": [
+            "#fff",
+            "#212529"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVjelW5bL2_k7ApIsg3qFz6wU5iqsnDmTLhQ&s"
+            },
+            {
+                "imd": "a2",
+                "img": "https://cdn.notonthehighstreet.com/fs/99/d2/9f28-a809-45ec-8121-9ffc54a5330a/original_personalised-leather-purse-with-phone-pocket.jpg"
+            },
+            {
+                "imd": "a3",
+                "img": "https://ae01.alicdn.com/kf/HTB16APPavY85uJjSZFzq6A93VXaP/Bolsas-2017-Zipper-Small-Women-s-Purse-Pocket-Purse-Card-Coin-Holder-Purses-Small-Zipper-Wallet.jpg"
+            },
+            {
+                "imd": "a4",
+                "img": "https://i5.walmartimages.com/asr/71bd0821-6d22-4658-97e6-a390f462889d_1.6abfd38d3e06d3f7b2db7ff52427263b.jpeg"
+            }
+        ],
+        "discription": "addidas Partybox 110 | parse Wireless Bluetooth Party Speaker home theater| 160W Monstrous Pro Sound| Dynamic Light Show| Upto 12Hrs Playtime | Built-in Powerbank | Guitar & Mic support PartyBox App (Black)",
+        "cast": "addidas store",
+        "brand": "addidas",
+        "ratting": 4.9,
+        "stock": 9,
+        "preview": 745,
+        "discription2": "addidas Partybox 110 | parse Wireless Bluetooth Party Speaker home theater...",
+        "percentege": 3,
+        "mrp": 670,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.in/JBL-PartyBox-Bluetooth-Adjustable-Splashproof/dp/B09JVCT78G/ref=asc_df_B09JVCT78G/?tag=googleshopdes-21&linkCode=df0&hvadid=586232427828&hvpos=&hvnetw=g&hvrand=6523228703642282885&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007802&hvtargid=pla-1657518441575&psc=1&mcid=56124387882135ce95de70f4e8d45d8d"
+    },
+    {
+        "name": "parse",
+        "id": 49,
+        "color": [
+            "#92736c",
+            "#212529",
+            "#fdf1f5"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://i.pinimg.com/236x/ae/fa/16/aefa16f2cc57808469daf9045c3d5aeb.jpg"
+            },
+            {
+                "imd": "a2",
+                "img": "https://ae01.alicdn.com/kf/HTB1sEw.wr5YBuNjSspoq6zeNFXaJ/Luxury-Brand-Cute-mini-wallet-Ladies-Short-Leather-Wallets-Womens-Wallets-and-Purses-Wallet-Women-Card.jpg"
+            },
+            {
+                "imd": "a3",
+                "img": "https://www.thesprucecrafts.com/thmb/kxoFEP6RAXcTkkXsNMOpCAL99hg=/2800x1866/filters:fill(auto,1)/CrochetCoinPurse1-5c5381c946e0fb00012b98ac.jpg"
+            },
+            {
+                "imd": "a4",
+                "img": "https://pngimg.com/uploads/wallet/wallet_PNG77068.png"
+            }
+        ],
+        "discription": "addidas Partybox 110 | parse Wireless Bluetooth Party Speaker home theater| 160W Monstrous Pro Sound| Dynamic Light Show| Upto 12Hrs Playtime | Built-in Powerbank | Guitar & Mic support PartyBox App (Black)",
+        "cast": "addidas store",
+        "brand": "addidas",
+        "branding": "man",
+        "ratting": 3.2,
+        "stock": 12,
+        "preview": 5,
+        "discription2": "addidas Partybox 110 | parse Wireless Bluetooth Party Speaker home theater...",
+        "percentege": 8,
+        "mrp": 590,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.in/JBL-PartyBox-Bluetooth-Adjustable-Splashproof/dp/B09JVCT78G/ref=asc_df_B09JVCT78G/?tag=googleshopdes-21&linkCode=df0&hvadid=586232427828&hvpos=&hvnetw=g&hvrand=6523228703642282885&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007802&hvtargid=pla-1657518441575&psc=1&mcid=56124387882135ce95de70f4e8d45d8d"
+    },
+    {
+        "name": "juiser mashine",
+        "id": 50,
+        "color": [
+            "#92736c",
+            "#212529",
+            "#fdf1f5"
+        ],
+        "img_url": [
+            {
+                "imd": "a1",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeDGpI6m7rPkW93-kO8N7W2zWmBRRh6tGLRg&s"
+            },
+            {
+                "imd": "a2",
+                "img": "https://i5.walmartimages.com/asr/1220a69c-fa91-4ed7-be66-dd77caa656d0_1.89f5c45fab1c4b552ae19a4d88b2616d.jpeg"
+            },
+            {
+                "imd": "a3",
+                "img": "https://i5.walmartimages.com/asr/6f55d6d3-7e36-4e17-9ee1-0fa0d8d79e10_1.27c1f4e85f9ce80f6a774f6f0e91aa53.jpeg"
+            },
+            {
+                "imd": "a4",
+                "img": "https://images-na.ssl-images-amazon.com/images/I/717Ki1RZcoL._AC_SL1500_.jpg"
+            }
+        ],
+        "discription": "Kuvings Newly Launched REVO Series Professional Cold Press Whole Slow juiser mashine, World's First Juicer with Patented Automatic-Cutting Auger to reduce juicing time (REVO830 Matt Black + Smoothie & Sorbet)",
+        "cast": "kuvings store",
+        "brand": "kuvings",
+        "branding": "electronic",
+        "featured": true,
+        "ratting": 3.5,
+        "stock": 0,
+        "preview": 10,
+        "discription2": "Kuvings Newly Launched REVO Series Professional Cold Press...",
+        "percentege": 5,
+        "mrp": 21000,
+        "watch_url2": "AmazonDetaila.jsx",
+        "watch_url": "https://www.amazon.in/REVO830-Matt-Black-Smoothie-Sorbet/dp/B0B3Y8J6Y6/ref=asc_df_B0B3Y8J6Y6/?tag=googleshopdes-21&linkCode=df0&hvadid=586302839512&hvpos=&hvnetw=g&hvrand=2573285741646624736&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007802&hvtargid=pla-1758208798524&psc=1&mcid=5921264a434c32ba85075bb8c4894693"
+    }
+]

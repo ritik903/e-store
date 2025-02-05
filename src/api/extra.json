@@ -1,0 +1,83 @@
+[
+    {
+        "icon": "FaLaptopCode",
+        "name": "laptops",
+        "id": 1
+    },
+    {
+        "icon": "MdToys",
+        "name": "toys",
+        "id": 2
+    },
+    {
+        "icon": "CiMobile3",
+        "name": "mobile",
+        "id": 3
+    },
+    {
+        "icon": "CgSmartHomeRefrigerator",
+        "name": "fridge",
+        "id": 4
+    },
+    {
+        "icon": "PiTelevisionSimpleFill",
+        "name": "led",
+        "id": 5
+    },
+    {
+        "icon": "FaBoxes",
+        "name": "home theater",
+        "id": 6
+    },
+    
+    {
+        "icon": "LuBookKey",
+        "name": "almira",
+        "id": 7
+    },
+    {
+        "icon": "FaComputer",
+        "name": "computer",
+        "id": 8
+    },
+    {
+        "icon": "PiDeviceTabletSpeakerBold",
+        "name": "bad",
+        "id": 9
+    },
+    {
+        "icon": "GiDeathJuice",
+        "name": "juicer mashine",
+        "id": 10
+    },
+    {
+        "icon": "FaToolbox",
+        "name": "parse",
+        "id": 11
+    },
+    {
+        "icon": "GiSchoolBag",
+        "name": "bags",
+        "id": 12
+    },
+    {
+        "icon": "FaDrumSteelpan",
+        "name": "dinner set",
+        "id": 13
+    },
+    {
+        "icon": "LuWashingMachine",
+        "name": "washing mashine",
+        "id": 14
+    },
+    {
+        "icon": "GiLargeDress",
+        "name": "clouths",
+        "id": 15
+    },
+    {
+        "icon": "GiConverseShoe",
+        "name": "shoes",
+        "id": 16
+    }
+]

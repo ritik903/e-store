@@ -1,0 +1,32 @@
+[
+    {
+        "icon": "https://media3.giphy.com/media/EZpYPttGqutjKF3pAj/giphy.gif",
+        "name": "Fast & secure",
+        "para": "Delivery",
+        "id": 1
+    },
+    {
+        "icon": "https://media.tenor.com/NGn6WCL5U08AAAAj/warranty-pollicesu.gif",
+        "name": "100% Guarantee",
+        "para": "On Products",
+        "id": 2
+    },
+    {
+        "icon": "https://media.lordicon.com/icons/wired/flat/405-non-stop-24-h.gif",
+        "name": "24 Hours Return",
+        "para": "policy",
+        "id": 3
+    },
+    {
+        "icon": "https://technologystudent.com/despro_flsh/quality1a.gif",
+        "name": "Next Level Pro",
+        "para" : "Quailty",
+        "id": 4
+    },
+    {
+        "icon": "https://media0.giphy.com/media/XEfnCrX6jeivzScjEc/giphy.gif?cid=6c09b952gd29xrqw5ccpwc6fvyshbh9rnpr3aol0k6gpx8fx&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s",
+        "name": "Cash On",
+        "para" : "Delivery",
+        "id": 5
+    }
+]
